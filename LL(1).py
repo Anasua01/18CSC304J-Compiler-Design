@@ -587,4 +587,3 @@ if sample_input_string != None:
 else:
 	print("\nNo input String detected")
 
-# Author: Tanmay P. Bisen
